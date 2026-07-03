@@ -1,0 +1,17 @@
+node_modules
+.git
+.gitignore
+README.md
+.env.local
+.env.*.local
+dist
+build
+.next
+.nuxt
+.cache
+.vuepress/dist
+.serverless/
+.fusebox/
+.dynamodb/
+.tern-port
+.venv/
